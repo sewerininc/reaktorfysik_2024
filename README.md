@@ -1,8 +1,8 @@
 # reaktorfysik_2024
-A place which shows the solutions to the task from another python course
+A place that shows the solutions to the task from another Python course
 
 
-# tirsdag 20/2
+### tirsdag 20/2
 Notebook 4 
 2.7, 2.8 
 git
