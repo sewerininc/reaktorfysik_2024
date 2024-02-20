@@ -9,3 +9,5 @@ push:
 	git commit -am "$(m)"
 	git push
 
+jupyter:
+	poetry run jupyter notebook
