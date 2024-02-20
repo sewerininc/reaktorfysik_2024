@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "reaktorfysik-2024"
+version = "0.1.0"
+description = "Env to be used for reactorfysics"
+authors = ["mikkelsewerin <mikkelsewerin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.0"
+numpy = "^1.26.4"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
