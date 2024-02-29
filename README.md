@@ -2,8 +2,7 @@
 A place that shows the solutions to the task from another Python course
 
 ### Torsdag 7/3
-Læs kapitel 4 
-youtube video (måske også 21) 22 
+Læs kapitel 4 eller se youtube video (måske også 21) 22 
 
 
 ### Torsdag 29/2
