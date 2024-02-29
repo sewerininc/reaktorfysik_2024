@@ -1,6 +1,11 @@
 # reaktorfysik_2024
 A place that shows the solutions to the task from another Python course
 
+### Torsdag 7/3
+Læs kapitel 4 
+youtube video (måske også 21) 22 
+
+
 ### Torsdag 29/2
 Til kapitel 4 ish 
 notebook 4 og 5 som minimum (6 hvis man har tid)
