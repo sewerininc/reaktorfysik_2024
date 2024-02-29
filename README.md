@@ -17,3 +17,6 @@ Notebook 4
 2.7, 2.8 
 git
 Indsæt svar til 1, 2, 3 og snak om nr. 4
+
+
+https://www.youtube.com/watch?v=KhT9m9kFzv8&list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu&index=21
