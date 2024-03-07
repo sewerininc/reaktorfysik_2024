@@ -1,6 +1,10 @@
 # reaktorfysik_2024
 A place that shows the solutions to the task from another Python course
 
+### Torsdag 14/3
+notebook 7
+
+
 ### Torsdag 7/3
 Læs kapitel 4 eller se youtube video (måske også 21) 22 
 notebook 6
