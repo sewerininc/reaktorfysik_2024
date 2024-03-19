@@ -1,6 +1,9 @@
 # reaktorfysik_2024
 A place that shows the solutions to the task from another Python course
 
+### Efter Påske
+Færdigør nb 8
+
 ### Torsdag 21/3
 notebook 7 og start på notebook 8
 
