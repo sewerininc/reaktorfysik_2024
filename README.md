@@ -2,7 +2,7 @@
 A place that shows the solutions to the task from another Python course
 
 ### Efter Påske
-Færdigør nb 8
+ nb 8 og læse kapitel 5.1 og 5.2
 
 ### Torsdag 21/3
 notebook 7 og start på notebook 8
