@@ -1,6 +1,9 @@
 # reaktorfysik_2024
 A place that shows the solutions to the task from another Python course
 
+### 18.april
+nb 10 og kapitel 5.3
+
 ### Efter Påske
  nb 8 og læse kapitel 5.1 og 5.2
 
